@@ -13,7 +13,6 @@ import os
 # --- CONFIGURATION ---
 # Load the environment variables from the .env file
 load_dotenv()
-
 # EMAIL = os.getenv("EMAIL", "your_email@example.com")  # Use environment variables
 # PASSWORD = os.getenv("PASSWORD", "your_password")
 EMAIL = os.getenv("EMAIL")
