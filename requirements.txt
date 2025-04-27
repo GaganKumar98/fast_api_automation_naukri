@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+selenium
+apscheduler
+webdriver-manager
